@@ -46,3 +46,8 @@ html {
 .life-bar .life.danger {
     background-color: red;
 }
+
+.life-bar .life.warning {
+    background-color: orange;
+}
+
